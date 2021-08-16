@@ -25,7 +25,7 @@ var score = 0;
   console.log(chalk.yellow('Your score is  :' + score));
 }
 console.log('\n----------------\n');
-console.log('Lets start the gameplay \nFew Instructions\n1. Type your all the answers in Capital Letters\n2. Good Luck');
+console.log('Lets Start!! A New Game \nInstructions\n1. Enter The Correct Options From The Given Options\n2. let go!!Good Luck');
 console.log('\n----------------\n');
 console.log('Current Score:' + score);
 
